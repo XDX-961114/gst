@@ -1,4 +1,4 @@
-module github.com/danielpaulus/gst
+module github.com/XDX-961114/gst
 
 go 1.12
 
